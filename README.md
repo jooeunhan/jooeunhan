@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Jooeun%20Han&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Front-End%20Developer%20%7C%20AI%20Research&descAlignY=58&descSize=18&animation=fadeIn" />
+
 ## 🩷 Languages
 
 <p>
@@ -10,8 +12,6 @@
   <img src="https://img.shields.io/badge/TypeScript-F9C5D5?style=for-the-badge&logo=typescript&logoColor=3178C6">
 </p>
 
----
-
 ## 🌷 Frameworks & Libraries
 
 <p>
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Pandas-F9C5D5?style=for-the-badge&logo=pandas&logoColor=150458">
 </p>
 
----
 
 ## 🧸 Development Tools
 
@@ -32,3 +31,5 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-BDE0FE?style=for-the-badge&logo=visual-studio&logoColor=5C2D91">
   <img src="https://img.shields.io/badge/VS%20Code-F9C5D5?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30" />
