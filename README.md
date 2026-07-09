@@ -1,5 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Jooeun%20Han&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Front-End%20Developer%20%7C%20AI%20Research&descAlignY=58&descSize=18&animation=fadeIn" />
 
+## 🌸 About Me
+
+💖 Double Major in Child Studies & Computer Engineering
+
+🌱 Interested in Front-End Development & AI
+
+🎯 Goal : Building services that make people's lives better
+
+💌 Contact: yeppijune@gmail.com
+
 ## 🩷 Languages
 
 <p>
